@@ -13,13 +13,15 @@ public class SparseArray {
         oriArr[8][2] = 100;
         //先遍历一遍原始二维数组，看看效果
 
-//        for (int i = 0; i< oriArr.length; i++){
-//            System.out.println();
-//            for (int j = 0; j< oriArr[i].length; j++){
-//
-//                System.out.print("    "+oriArr[i][j]);
-//            }
-//        }
+       for (int i = 0; i< oriArr.length; i++){
+            System.out.println();
+            for (int j = 0; j< oriArr[i].length; j++){
+
+                System.out.print("\t"+oriArr[i][j]);
+            }
+        }
+        System.out.println();
+        System.out.println("-----------------------------------------");
 
         //获取有效个数
         int sum = 0;
@@ -63,6 +65,19 @@ public class SparseArray {
 //                System.out.print("\t"+sparseArr[a][b]);
 //            }
 //        }
-
+        //将稀疏数组复原成原数组
+        int[][] finalArr = new int [sparseArr[0][0]][sparseArr[0][1]];
+        for (int a = 1; a<sparseArr.length; a++){
+            int hang = sparseArr[a][0];
+            int lie = sparseArr[a][1];
+            int val = sparseArr[a][2];
+            finalArr[hang][lie] = val;
+        }
+        for (int c = 0; c<finalArr.length;c++){
+            System.out.println();
+            for (int d = 0;d<finalArr[c].length;d++){
+                System.out.print("\t"+finalArr[c][d]);
+            }
+        }
     }
 }
