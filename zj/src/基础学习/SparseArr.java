@@ -1,4 +1,7 @@
 package 基础学习;
+/**
+ * 稀疏数组和二维数组的转化
+ */
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
