@@ -1,0 +1,16 @@
+
+`	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Îè…Óüÿÿÿÿ
+k	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö«Í³ùÿÿÿÿ
+@
+java:S5411-"*Use the primitive boolean expression here.(­¹¾¼
+?
+java:S54118"*Use the primitive boolean expression here.(úÅ×5
+0
+java:S1220""Move this file to a named package.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ï«¸–
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ï«¸–
+?
+java:S1197"*Move the array designators [] to the type.(âı¹~
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ÜÌ¼şÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(â”ö€

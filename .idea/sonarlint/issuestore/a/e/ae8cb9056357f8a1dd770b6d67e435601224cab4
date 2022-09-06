@@ -1,0 +1,23 @@
+
+`	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(à¼‘¨ûÿÿÿÿ
+`	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(à¼‘¨ûÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘×Š’úÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ïÅa
+R
+java:S1854"7Remove this useless assignment to local variable "key".(šÎ¸şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×ì°Ãüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(êÒ²ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿĞ®äıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷ÕËÉıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½­äî
+M	java:S106""9Replace this use of System.out or System.err by a logger.(ıô
+S	java:S106("9Replace this use of System.out or System.err by a logger.(¬éˆÖúÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(–²ä
+h	java:S116="NRename this field "Arr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼±×ÿÿÿÿÿ
+h	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ñ“­şÿÿÿÿ
+b	java:S100M"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÎÅU
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(á¢Îùÿÿÿÿ
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(»ÁÉìùÿÿÿÿ
+g
+java:S3457m"Q%n should be used in place of \n to produce the platform-specific line separator.(½Ïæˆ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(½Ïæˆ

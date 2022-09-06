@@ -1,0 +1,27 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷¬Ø¯øÿÿÿÿ8ª»ªÈ­0
+k
+java:S2095""OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(Ô¿­]8Èä¬È­0
+r
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ÿÔùÇúÿÿÿÿ8Éä¬È­0
+`
+java:S1854$">Remove this useless assignment to local variable "chessArred".(¹Ñíÿÿÿÿÿ8Õä¬È­0
+[
+java:S1854#">Remove this useless assignment to local variable "sparseArr1".(áì8Õä¬È­0
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(òôèşÿÿÿÿ8Øä¬È­0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ªù©x8Üä¬È­0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ë£8ßä¬È­0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8àä¬È­0
+L
+java:S1481#"/Remove this unused "sparseArr1" local variable.(áì8ôä¬È­0
+Q
+java:S1481$"/Remove this unused "chessArred" local variable.(¹Ñíÿÿÿÿÿ8öä¬È­0
+o	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¡â±ûÿÿÿÿ8öä¬È­0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Ò“ëÊùÿÿÿÿ8ûä¬È­0
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(‘Ë£8üä¬È­0
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ıä¬È­0
+j	java:S100K"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¯¼à8şä¬È­0
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ÈÂúß8å¬È­0
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(‘Ë£8‚å¬È­0
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ƒå¬È­0
